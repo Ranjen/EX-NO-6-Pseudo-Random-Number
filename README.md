@@ -1,5 +1,8 @@
 # EX-NO-6-Pseudo-Random-Number
-Date:18-11-2026                                                       Name: RANJEN MUNUSWAMY K B
+
+Date:18-11-2026                                                       
+Name: RANJEN MUNUSWAMY K B
+
 # AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
 
